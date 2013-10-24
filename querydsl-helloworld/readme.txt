@@ -1,0 +1,1 @@
+For working without problems in Eclipse IDE make sure to install the m2e-apt Eclipse plugin (from the Eclipse marketplace).
